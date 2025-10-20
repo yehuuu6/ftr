@@ -19,10 +19,6 @@
                         class="text-gray-300 hover:text-teal-500 transition-all duration-150">
                         <x-tabler-brand-instagram class="size-7" />
                     </a>
-                    <a href="https://x.com/yehuuu6_" target="_blank" rel="noopener noreferrer"
-                        class="text-gray-300 hover:text-teal-500 transition-all duration-150">
-                        <x-tabler-brand-x class="size-7" />
-                    </a>
                 </div>
             </div>
 
