@@ -1,5 +1,5 @@
 <nav x-data="{ open: false }" class="fixed w-full top-0 z-50 bg-white/90 backdrop-blur-md border-b border-gray-100">
-    <div class="max-w-7xl mx-auto lg:px-0 px-6">
+    <div class="max-w-7xl mx-auto lg:px-0 px-5">
         <div class="flex justify-between items-center h-18">
 
             <a href="/"

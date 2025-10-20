@@ -256,7 +256,7 @@
                                 <x-tabler-phone-call class="size-5 mr-2" />
                                 Hemen Ara
                             </a>
-                            <a href="https://web.whatsapp.com/send?phone=905077113318&text=Merhaba.%20Mesaj%C4%B1n%C4%B1z%C4%B1%20buraya%20yazabilirsiniz!"
+                            <a href="https://wa.me/905077113318?text=Merhaba.%20Mesaj%C4%B1n%C4%B1z%C4%B1%20buraya%20yazabilirsiniz!"
                                 target="_blank" rel="noopener noreferrer"
                                 class="flex-1 inline-flex items-center justify-center px-6 py-3 bg-white text-gray-900 rounded-full font-semibold border border-gray-200 shadow-sm transition hover:bg-gray-50">
                                 <x-tabler-brand-whatsapp class="size-5 mr-2" />
