@@ -46,39 +46,18 @@
             <div
                 class="text-gray-700 font-medium mt-16 md:mt-24 flex flex-col lg:flex-row items-center justify-center gap-2 md:gap-1">
                 <span class="text-black font-extrabold text-2xl sm:text-3xl inline-flex items-center gap-1">
-                    Yeni Nesil Tedavi <x-tabler-bolt-f class="size-8 text-teal-400/50 md:ml-3 mr-0 md:mr-2" />
+                    Bireye Özgü Tedavi <x-tabler-bolt-f class="size-8 text-teal-400/50 md:ml-3 mr-0 md:mr-2" />
                 </span>
                 <span class="text-base sm:text-lg text-center md:text-left">
-                    Modern tedavi anlayışı geldi,
                     <span class="text-black font-semibold">
-                        daha konforlu<span class="text-gray-700">,</span>
+                        Güncel tedavi
                     </span>
+                    yaklaşımları ile,
                     <span class="text-black font-semibold">
-                        daha insancıl
+                        sağlığınıza
                     </span>
-                    ve
-                    <span class="text-black font-semibold">
-                        tamamen size özel.
-                    </span>
+                    kavuşun.
                 </span>
-            </div>
-
-
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-12 max-w-5xl mx-auto text-left">
-                <div class="bg-white/90 md:rounded-tl-3xl rounded-lg border border-gray-100 p-8 md:p-10">
-                    <div class="text-base font-semibold text-gray-800">Fizyoterapist</div>
-                    <p class="text-gray-500 mt-2 text-sm">Sürekli gelişen profesyonel destek.</p>
-                </div>
-
-                <div class="bg-white/90 rounded-lg border border-gray-100 p-8 md:p-10">
-                    <div class="text-base font-semibold text-gray-800">Güncel Yaklaşımlar</div>
-                    <p class="text-gray-500 mt-2 text-sm">Modern cihazlar ve dijital analiz sistemleri.</p>
-                </div>
-
-                <div class="bg-white/90 md:rounded-tr-3xl rounded-lg border border-gray-100 p-8 md:p-10">
-                    <div class="text-base font-semibold text-gray-800">Bireye Özgü Tedavi</div>
-                    <p class="text-gray-500 mt-2 text-sm">Her birey için özel tedavi planları ve ilgi.</p>
-                </div>
             </div>
         </div>
     </section>

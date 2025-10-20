@@ -1,1 +1,1 @@
-in the category "{{ $page->category }}"
+Kategori: "{{ $page->category }}"

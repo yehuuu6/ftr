@@ -4,6 +4,7 @@ description: "Tenisçi dirseği (lateral epikondilit): nedenleri, sık görülen
 category: "Hastalık"
 author: "Ebru Başak"
 date: "2025-10-19 16:49"
+image: "/media/tenisci-dirsegi/card.jpg"
 ---
 
 **Tenisçi dirseği**, dirseğin dış kenarında yoğun ve noktasal hissedilen ağrı ile karakterize edilen, genelde tendonların iltihaplanmasına bağlı bir rahatsızlıktır. Bu sorunla karşılaşanların çoğu “Ben tenis oynamıyorum, nereden çıktı bu şimdi?” diye şaşırır; çünkü problem sadece tenisçilere özgü değildir.

@@ -8,7 +8,7 @@
                     Ebru Başak FTR
                 </a>
                 <p class="text-base font-medium text-gray-300 leading-relaxed max-w-md">
-                    Sağlıklı yaşam ve ağrısız hareket için modern fizyoterapi çözümleri.
+                    Sağlıklı yaşam ve ağrısız hareket için fizyoterapi çözümleri.
                 </p>
                 <div class="flex items-center gap-7 pt-3">
                     <a href="https://tr.linkedin.com/in/ebru-ba%C5%9Fak-73391b217" target="_blank"
