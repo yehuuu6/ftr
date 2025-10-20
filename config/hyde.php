@@ -222,7 +222,7 @@ return [
         Meta::name('description', 'Ebru Başak Fizyoterapi ve Rehabilitasyon Merkezi'),
         Meta::name('keywords', 'fizyoterapi, rehabilitasyon, ebru başak, ebru başak ftr, ebru başak ftr, fizyoterapist, sağlık, wellness'),
         Meta::name('generator', 'HydePHP v'.Hyde\Hyde::version()),
-        Meta::property('site_name', env('SITE_NAME', 'Ebru Başak FTR')),
+        Meta::property('site_name', env('SITE_NAME', 'Ebru Başak Manuel Terapi ve Klinik Egzersiz Merkezi')),
     ],
 
     /*
