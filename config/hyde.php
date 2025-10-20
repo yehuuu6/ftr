@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('SITE_URL', 'https://yehuuu6.github.io/ftr/'),
+    'url' => env('SITE_URL', 'https://ebrubasakftr.com'),
 
     /*
     |--------------------------------------------------------------------------
