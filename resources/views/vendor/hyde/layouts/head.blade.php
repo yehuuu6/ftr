@@ -15,8 +15,6 @@
 
 @if (Vite::running())
     {{ Vite::assets(['resources/assets/app.css']) }}
-@else
-    <link rel="stylesheet" href="{{ asset('media/app.css') }}">
 @endif
 
 {{-- Add any extra code to include before the closing <head> tag --}}
