@@ -31,7 +31,8 @@
             </p>
 
             <div class="flex flex-col sm:flex-row gap-4 justify-center items-center w-fit mx-auto">
-                <a href="#iletisim"
+                <a href="https://www.doktortakvimi.com/ebru-basak/fizyoterapi-ve-rehabilitasyon/ankara?utm_source=widget-null&utm_medium=link"
+                    rel="nofollow" target="_blank"
                     class="flex-1 inline-flex items-center justify-center px-6 py-3 bg-gradient-to-t from-teal-600 to-cyan-600 text-white rounded-full font-semibold shadow-md transition hover:opacity-90">
                     <x-tabler-clipboard-check class="size-5 mr-2 shrink-0" />
                     Randevu Al
@@ -201,7 +202,6 @@
                     Randevu almak veya sorularınız için bizimle iletişime geçebilirsiniz
                 </p>
             </div>
-
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
 
                 <div class="bg-white rounded-3xl shadow-lg p-6 sm:p-8 lg:p-10 flex flex-col h-full">
