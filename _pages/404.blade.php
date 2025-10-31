@@ -72,14 +72,7 @@
                 <div class="flex flex-col sm:flex-row gap-4 justify-center items-center w-fit mx-auto">
                     <a href="/"
                         class="inline-flex items-center justify-center w-full sm:w-auto px-8 py-3 bg-gradient-to-t from-teal-600 to-cyan-600 text-white rounded-full font-semibold shadow-md transition hover:opacity-90">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 mr-2" viewBox="0 0 24 24"
-                            stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
-                            stroke-linejoin="round">
-                            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                            <polyline points="5 12 3 12 12 3 21 12 19 12" />
-                            <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
-                            <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
-                        </svg>
+                        <x-tabler-home class="w-5 h-5 mr-2" />
                         Ana Sayfaya Dön
                     </a>
                 </div>

@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('SITE_URL', 'https://ebrubasakftr.com'),
+    'url' => env('SITE_URL', 'https://www.ebrubasakftr.com'),
 
     /*
     |--------------------------------------------------------------------------
@@ -288,7 +288,7 @@ return [
         'mr_hyde' => Author::create(
             // The following settings are used in the default blog post template.
             name: 'Ebru Başak', // Optional display name
-            website: 'https://ebrubasakftr.com', // Optional website URL
+            website: 'https://www.ebrubasakftr.com', // Optional website URL
 
             // The following settings are not used in the bundled templates,
             // but you can use them in your own custom views, for example.

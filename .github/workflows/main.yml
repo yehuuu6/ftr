@@ -63,6 +63,12 @@ jobs:
       - name: Create CNAME file
         run: echo "www.ebrubasakftr.com" > CNAME
 
+      - name: Create robots.txt
+        run: |
+          echo "User-agent: *" > robots.txt
+          echo "Allow: /" >> robots.txt
+          echo "Sitemap: https://www.ebrubasakftr.com/sitemap.xml" >> robots.txt
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
