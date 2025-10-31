@@ -290,7 +290,7 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
-                @foreach (Hyde\Pages\MarkdownPost::all()->take(3) as $post)
+                @foreach (Hyde\Pages\MarkdownPost::all()->sortByDesc('date')->take(3) as $post)
                     @php
                         $imageUrl = $post->image;
                         if ($imageUrl) {
