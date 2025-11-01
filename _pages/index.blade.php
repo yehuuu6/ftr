@@ -38,7 +38,7 @@
                 </a>
                 <a href="#hizmetler"
                     class="flex-1 inline-flex items-center justify-center px-6 py-3 bg-white text-gray-900 rounded-full font-semibold border border-gray-200 shadow-sm transition hover:bg-gray-50">
-                    <x-tabler-box class="size-5 mr-2 shrink-0" />
+                    <x-tabler-heart-handshake class="size-5 mr-2 shrink-0" />
                     Hizmetlerimiz
                 </a>
             </div>
@@ -435,8 +435,9 @@
 
             <div class="text-center mt-16">
                 <a href="/posts"
-                    class="px-8 py-2.5 bg-white text-gray-900 rounded-full font-semibold text-sm border border-gray-900/10 transition-all duration-300 hover:border-gray-900/30 hover:bg-gray-50">
+                    class="flex-1 inline-flex items-center justify-center px-6 py-3 bg-white text-gray-900 rounded-full font-semibold border border-gray-200 shadow-sm transition hover:bg-gray-50">
                     Tüm Yazıları Görüntüle
+                    <x-tabler-arrow-right class="size-5 ml-2 shrink-0" />
                 </a>
             </div>
         </div>
