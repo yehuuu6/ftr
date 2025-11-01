@@ -1,4 +1,5 @@
 @extends('hyde::layouts.app')
+@push('title', 'Ebru Başak FTR - Manuel Terapi ve Klinik Egzersiz Merkezi')
 @section('content')
     <section id="anasayfa" class="relative pt-28 md:pt-36 pb-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div class="absolute inset-0 -z-10 bg-gradient-to-b from-white via-teal-50 to-cyan-50">
@@ -281,7 +282,7 @@
         <div class="max-w-7xl mx-auto">
             <div class="text-center mb-16">
                 <h2 class="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-                    Blog Yazılarımız
+                    Blog Gönderilerimiz
                 </h2>
                 <p class="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto">
                     Sağlıklı yaşam ve fizyoterapi hakkında en son gönderilerimizi keşfedin
