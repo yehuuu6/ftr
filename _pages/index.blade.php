@@ -1,5 +1,4 @@
 @extends('hyde::layouts.app')
-@push('title', 'Ebru Başak FTR - Manuel Terapi ve Klinik Egzersiz Merkezi')
 @section('content')
     <section id="anasayfa" class="relative pt-28 md:pt-36 pb-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div class="absolute inset-0 -z-10 bg-gradient-to-b from-white via-teal-50 to-cyan-50">
