@@ -10,30 +10,38 @@
 
             <div class="hidden md:flex items-center gap-x-6 lg:gap-x-8">
                 <a href="/"
-                    class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200 inline-flex items-center gap-1.5">
-                    <x-tabler-home class="w-4 h-4" />
-                    Ana Sayfa
+                    class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200">
+                    <span class="inline-flex items-center gap-1.5">
+                        <x-tabler-home class="w-4 h-4" />
+                        Ana Sayfa
+                    </span>
                     <span
                         class="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-teal-600"></span>
                 </a>
                 <a href="/#hizmetler"
-                    class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200 inline-flex items-center gap-1.5">
-                    <x-tabler-heart-handshake class="w-4 h-4" />
-                    Hizmetler
+                    class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200">
+                    <span class="inline-flex items-center gap-1.5">
+                        <x-tabler-heart-handshake class="w-4 h-4" />
+                        Hizmetler
+                    </span>
                     <span
                         class="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-teal-600"></span>
                 </a>
                 <a href="/#iletisim"
-                    class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200 inline-flex items-center gap-1.5">
-                    <x-tabler-mail class="w-4 h-4" />
-                    İletişim
+                    class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200">
+                    <span class="inline-flex items-center gap-1.5">
+                        <x-tabler-mail class="w-4 h-4" />
+                        İletişim
+                    </span>
                     <span
                         class="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-teal-600"></span>
                 </a>
                 <a href="/posts"
-                    class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200 inline-flex items-center gap-1.5">
-                    <x-tabler-news class="w-4 h-4" />
-                    Blog
+                    class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200">
+                    <span class="inline-flex items-center gap-1.5">
+                        <x-tabler-news class="w-4 h-4" />
+                        Blog
+                    </span>
                     <span
                         class="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-teal-600"></span>
                 </a>
