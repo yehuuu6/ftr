@@ -49,6 +49,10 @@
                 <div class="flex flex-col gap-3 text-gray-300">
                     <p>Atakent Mah. Şehit Celal İşen Cad. No 64 B, Elvankent Etimesgut Ankara</p>
                     <p>+90 (507) 711 33 18</p>
+                    <a href="https://www.doktortakvimi.com/ebru-basak/fizyoterapi-ve-rehabilitasyon/ankara?utm_source=widget-null&utm_medium=link"
+                        rel="nofollow" target="_blank" class="hover:text-teal-500 transition-colors">
+                        Randevu Al
+                    </a>
                 </div>
             </div>
         </div>

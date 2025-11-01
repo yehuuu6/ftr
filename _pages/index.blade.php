@@ -26,13 +26,12 @@
             </h1>
 
             <p class="text-lg text-gray-600 mb-8 leading-relaxed max-w-2xl mx-auto">
-                Güncel tedavi ve rehabilitasyon yöntemleri ile kas-iskelet sistemi, sinir sistemi problemlerinizi
+                Güncel tedavi ve rehabilitasyon yöntemleri ile kas-iskelet sistemi ve sinir sistemi problemlerinizi
                 çözmek için buradayız.
             </p>
 
             <div class="flex flex-col sm:flex-row gap-4 justify-center items-center w-fit mx-auto">
-                <a href="https://www.doktortakvimi.com/ebru-basak/fizyoterapi-ve-rehabilitasyon/ankara?utm_source=widget-null&utm_medium=link"
-                    rel="nofollow" target="_blank"
+                <a href="#iletisim"
                     class="flex-1 inline-flex items-center justify-center px-6 py-3 bg-gradient-to-t from-teal-600 to-cyan-600 text-white rounded-full font-semibold shadow-md transition hover:opacity-90">
                     <x-tabler-clipboard-check class="size-5 mr-2 shrink-0" />
                     Randevu Al
@@ -67,8 +66,9 @@
         <hr class="border-t border-gray-200/75">
     </div>
 
-    <section id="hizmetler" class="py-24 px-4 sm:px-6 lg:px-8 bg-white">
-        <div class="max-w-7xl mx-auto">
+    <section id="hizmetler"
+        class="relative py-24 px-4 sm:px-6 lg:px-8 pb-40 bg-gradient-to-b from-slate-50 via-white to-slate-50 overflow-hidden">
+        <div class="max-w-7xl mx-auto relative z-10">
             <div class="text-center mb-16">
                 <h2 class="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
                     Hizmetlerimiz
@@ -80,119 +80,159 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <div
-                    class="group rounded-3xl p-6 md:p-8 border border-gray-200 bg-gradient-to-br from-white to-gray-50/70 transition-all duration-300 hover:border-teal-200/80 hover:bg-white">
-                    <div class="w-14 h-14 bg-teal-100 rounded-xl flex items-center justify-center mb-6">
-                        <x-tabler-massage class="w-8 h-8 text-teal-600" />
+                    class="group relative bg-white rounded-2xl p-6 border border-gray-200 hover:border-teal-300 transition-all duration-300 hover:shadow-lg overflow-hidden">
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-teal-50 to-transparent rounded-bl-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
-                    <h3
-                        class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300 group-hover:text-teal-700">
-                        Manuel Terapi</h3>
-                    <p class="text-sm text-gray-600 leading-relaxed">
-                        El teknikleri ile kas-iskelet sistemi problemlerinize özel tedavi. Ağrı yönetimi ve hareket
-                        kısıtlılıklarının giderilmesi.
-                    </p>
+                    <div class="relative">
+                        <div
+                            class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-teal-50 text-teal-600 mb-4">
+                            <x-tabler-massage class="w-5 h-5" />
+                        </div>
+                        <h3 class="text-base font-semibold text-gray-900 mb-2">Manuel Terapi</h3>
+                        <p class="text-sm text-gray-600 leading-relaxed">
+                            El teknikleri ile kas-iskelet sistemi problemlerinize özel tedavi. Ağrı yönetimi ve hareket
+                            kısıtlılıklarının giderilmesi.
+                        </p>
+                    </div>
                 </div>
 
                 <div
-                    class="group rounded-3xl p-6 md:p-8 border border-gray-200 bg-gradient-to-br from-white to-gray-50/70 transition-all duration-300 hover:border-cyan-200/80 hover:bg-white">
-                    <div class="w-14 h-14 bg-cyan-100 rounded-xl flex items-center justify-center mb-6">
-                        <x-tabler-stretching class="w-8 h-8 text-cyan-600" />
+                    class="group relative bg-white rounded-2xl p-6 border border-gray-200 hover:border-cyan-300 transition-all duration-300 hover:shadow-lg overflow-hidden">
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-cyan-50 to-transparent rounded-bl-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
-                    <h3
-                        class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300 group-hover:text-cyan-700">
-                        Klinik Pilates</h3>
-                    <p class="text-sm text-gray-600 leading-relaxed">
-                        Bireysel ihtiyaçlara yönelik klinik pilates seansları ile postür düzeltme ve fonksiyonel
-                        güçlendirme.
-                    </p>
+                    <div class="relative">
+                        <div
+                            class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-cyan-50 text-cyan-600 mb-4">
+                            <x-tabler-stretching class="w-5 h-5" />
+                        </div>
+                        <h3 class="text-base font-semibold text-gray-900 mb-2">Klinik Pilates</h3>
+                        <p class="text-sm text-gray-600 leading-relaxed">
+                            Bireysel ihtiyaçlara yönelik klinik pilates seansları ile postür düzeltme ve fonksiyonel
+                            güçlendirme.
+                        </p>
+                    </div>
                 </div>
 
                 <div
-                    class="group rounded-3xl p-6 md:p-8 border border-gray-200 bg-gradient-to-br from-white to-gray-50/70 transition-all duration-300 hover:border-emerald-200/80 hover:bg-white">
-                    <div class="w-14 h-14 bg-emerald-100 rounded-xl flex items-center justify-center mb-6">
-                        <x-tabler-run class="w-8 h-8 text-emerald-600" />
+                    class="group relative bg-white rounded-2xl p-6 border border-gray-200 hover:border-emerald-300 transition-all duration-300 hover:shadow-lg overflow-hidden">
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-emerald-50 to-transparent rounded-bl-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
-                    <h3
-                        class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300 group-hover:text-emerald-700">
-                        Spor Yaralanmaları</h3>
-                    <p class="text-sm text-gray-600 leading-relaxed">
-                        Spor yaralanmalarının tedavisi ve performans artırıcı egzersiz programları ile sporcu
-                        sağlığı.
-                    </p>
+                    <div class="relative">
+                        <div
+                            class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-emerald-50 text-emerald-600 mb-4">
+                            <x-tabler-run class="w-5 h-5" />
+                        </div>
+                        <h3 class="text-base font-semibold text-gray-900 mb-2">Spor Yaralanmaları</h3>
+                        <p class="text-sm text-gray-600 leading-relaxed">
+                            Spor yaralanmalarının tedavisi ve performans artırıcı egzersiz programları ile sporcu
+                            sağlığı.
+                        </p>
+                    </div>
                 </div>
 
                 <div
-                    class="group rounded-3xl p-6 md:p-8 border border-gray-200 bg-gradient-to-br from-white to-gray-50/70 transition-all duration-300 hover:border-blue-200/80 hover:bg-white">
-                    <div class="w-14 h-14 bg-blue-100 rounded-xl flex items-center justify-center mb-6">
-                        <x-tabler-bone class="w-8 h-8 text-blue-600" />
+                    class="group relative bg-white rounded-2xl p-6 border border-gray-200 hover:border-blue-300 transition-all duration-300 hover:shadow-lg overflow-hidden">
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-blue-50 to-transparent rounded-bl-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
-                    <h3
-                        class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300 group-hover:text-blue-700">
-                        Ortopedik Rehabilitasyon</h3>
-                    <p class="text-sm text-gray-600 leading-relaxed">
-                        Ameliyat sonrası iyileşme, kırık ve çıkık tedavileri için kapsamlı rehabilitasyon
-                        programları.
-                    </p>
+                    <div class="relative">
+                        <div
+                            class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-blue-50 text-blue-600 mb-4">
+                            <x-tabler-bone class="w-5 h-5" />
+                        </div>
+                        <h3 class="text-base font-semibold text-gray-900 mb-2">Ortopedik Rehabilitasyon</h3>
+                        <p class="text-sm text-gray-600 leading-relaxed">
+                            Ameliyat sonrası iyileşme, kırık ve çıkık tedavileri için kapsamlı rehabilitasyon
+                            programları.
+                        </p>
+                    </div>
                 </div>
 
                 <div
-                    class="group rounded-3xl p-6 md:p-8 border border-gray-200 bg-gradient-to-br from-white to-gray-50/70 transition-all duration-300 hover:border-green-200/80 hover:bg-white">
-                    <div class="w-14 h-14 bg-green-100 rounded-xl flex items-center justify-center mb-6">
-                        <x-tabler-brain class="w-8 h-8 text-green-600" />
+                    class="group relative bg-white rounded-2xl p-6 border border-gray-200 hover:border-purple-300 transition-all duration-300 hover:shadow-lg overflow-hidden">
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-purple-50 to-transparent rounded-bl-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
-                    <h3
-                        class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300 group-hover:text-green-700">
-                        Nörolojik Rehabilitasyon</h3>
-                    <p class="text-sm text-gray-600 leading-relaxed">
-                        İnme, MS, Parkinson gibi nörolojik hastalıklarda fonksiyonel bağımsızlığı artırma.
-                    </p>
+                    <div class="relative">
+                        <div
+                            class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-purple-50 text-purple-600 mb-4">
+                            <x-tabler-brain class="w-5 h-5" />
+                        </div>
+                        <h3 class="text-base font-semibold text-gray-900 mb-2">Nörolojik Rehabilitasyon</h3>
+                        <p class="text-sm text-gray-600 leading-relaxed">
+                            İnme, MS, Parkinson gibi nörolojik hastalıklarda fonksiyonel bağımsızlığı artırma.
+                        </p>
+                    </div>
                 </div>
 
                 <div
-                    class="group rounded-3xl p-6 md:p-8 border border-gray-200 bg-gradient-to-br from-white to-gray-50/70 transition-all duration-300 hover:border-indigo-200/80 hover:bg-white">
-                    <div class="w-14 h-14 bg-indigo-100 rounded-xl flex items-center justify-center mb-6">
-                        <x-tabler-accessible class="w-8 h-8 text-indigo-600" />
+                    class="group relative bg-white rounded-2xl p-6 border border-gray-200 hover:border-indigo-300 transition-all duration-300 hover:shadow-lg overflow-hidden">
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-indigo-50 to-transparent rounded-bl-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
-                    <h3
-                        class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300 group-hover:text-indigo-700">
-                        Geriatrik Fizyoterapi</h3>
-                    <p class="text-sm text-gray-600 leading-relaxed">
-                        Yaşlılarda denge, mobilite ve yaşam kalitesini artırmaya yönelik özel tedavi programları.
-                    </p>
+                    <div class="relative">
+                        <div
+                            class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-indigo-50 text-indigo-600 mb-4">
+                            <x-tabler-accessible class="w-5 h-5" />
+                        </div>
+                        <h3 class="text-base font-semibold text-gray-900 mb-2">Geriatrik Fizyoterapi</h3>
+                        <p class="text-sm text-gray-600 leading-relaxed">
+                            Yaşlılarda denge, mobilite ve yaşam kalitesini artırmaya yönelik özel tedavi programları.
+                        </p>
+                    </div>
                 </div>
 
                 <div
-                    class="group rounded-3xl p-6 md:p-8 border border-gray-200 bg-gradient-to-br from-white to-gray-50/70 transition-all duration-300 hover:border-violet-200/80 hover:bg-white">
-                    <div class="w-14 h-14 bg-violet-100 rounded-xl flex items-center justify-center mb-6">
-                        <x-tabler-bandage class="w-8 h-8 text-violet-600" />
+                    class="group relative bg-white rounded-2xl p-6 border border-gray-200 hover:border-rose-300 transition-all duration-300 hover:shadow-lg overflow-hidden">
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-rose-50 to-transparent rounded-bl-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
-                    <h3
-                        class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300
-                        group-hover:text-violet-700">
-                        Ağrı Yönetimi</h3>
-                    <p class="text-sm text-gray-600 leading-relaxed">
-                        Kronik ağrı, baş ağrısı ve bel ağrısı gibi durumların yönetimi için bireysel tedavi
-                        planları.
-                    </p>
+                    <div class="relative">
+                        <div
+                            class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-rose-50 text-rose-600 mb-4">
+                            <x-tabler-bandage class="w-5 h-5" />
+                        </div>
+                        <h3 class="text-base font-semibold text-gray-900 mb-2">Ağrı Yönetimi</h3>
+                        <p class="text-sm text-gray-600 leading-relaxed">
+                            Kronik ağrı, baş ağrısı ve bel ağrısı gibi durumların yönetimi için bireysel tedavi
+                            planları.
+                        </p>
+                    </div>
                 </div>
 
                 <div
-                    class="group rounded-3xl p-6 md:p-8 border border-gray-200 bg-gradient-to-br from-white to-gray-50/70 transition-all duration-300 hover:border-sky-200/80 hover:bg-white">
-                    <div class="w-14 h-14 bg-sky-100 rounded-xl flex items-center justify-center mb-6">
-                        <x-tabler-weight class="w-8 h-8 text-sky-600" />
+                    class="group relative bg-white rounded-2xl p-6 border border-gray-200 hover:border-sky-300 transition-all duration-300 hover:shadow-lg overflow-hidden">
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-sky-50 to-transparent rounded-bl-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
-                    <h3
-                        class="text-xl font-bold text-gray-900 mb-3 transition-colors duration-300 group-hover:text-sky-700">
-                        Bireysel Egzersiz</h3>
-                    <p class="text-sm text-gray-600 leading-relaxed">
-                        Bireysel egzersiz programları ile hastaların ihtiyaçlarına özel çözümler sunuyoruz.
-                    </p>
+                    <div class="relative">
+                        <div
+                            class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-sky-50 text-sky-600 mb-4">
+                            <x-tabler-weight class="w-5 h-5" />
+                        </div>
+                        <h3 class="text-base font-semibold text-gray-900 mb-2">Bireysel Egzersiz</h3>
+                        <p class="text-sm text-gray-600 leading-relaxed">
+                            Bireysel egzersiz programları ile hastaların ihtiyaçlarına özel çözümler sunuyoruz.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
+
+        {{-- Tilted section divider --}}
+        <div class="absolute bottom-0 left-0 right-0 h-24">
+            <svg class="absolute bottom-0 w-full h-24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 120"
+                preserveAspectRatio="none">
+                <path d="M0,60 Q180,100 360,60 T720,60 Q900,100 1080,60 T1440,60 L1440,120 L0,120 Z" fill="#f0fdfa"></path>
+            </svg>
+        </div>
     </section>
 
-    <section id="iletisim" class="py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50">
+    <section id="iletisim"
+        class="relative pt-16 px-4 sm:px-6 lg:px-8 pb-40 bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50">
         <div class="max-w-7xl mx-auto">
             <div class="text-center mb-16">
                 <h2 class="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
@@ -202,82 +242,124 @@
                     Randevu almak veya sorularınız için bizimle iletişime geçebilirsiniz
                 </p>
             </div>
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
 
-                <div class="bg-white rounded-3xl shadow-lg p-6 sm:p-8 lg:p-10 flex flex-col h-full">
-                    <h3 class="text-2xl sm:text-3xl font-bold text-gray-900 mb-8">Klinik Bilgileri</h3>
+            {{-- DoktorTakvimi Randevu Widgeti ve Klinik Bilgileri --}}
+            <div class="grid grid-cols-1 xl:grid-cols-2 gap-8 max-w-6xl mx-auto">
+                {{-- Randevu Widget --}}
+                <div class="bg-white rounded-3xl shadow-lg p-6 sm:p-8 flex flex-col md:h-full h-[800px] lg:max-h-[800px]">
+                    <div class="mb-6 pb-6 border-b border-gray-100">
+                        <h3 class="text-xl font-semibold text-gray-900">Online Randevu</h3>
+                        <p class="text-sm text-gray-500 mt-1">Müsait saatleri görüntüleyin ve randevu alın</p>
+                    </div>
+                    <div class="flex-1 flex items-center justify-center relative overflow-hidden">
+                        {{-- Loading Placeholder --}}
+                        <div id="widget-loading"
+                            class="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-teal-50 to-cyan-50 rounded-2xl z-20 pointer-events-none">
+                            <div class="text-center">
+                                <div
+                                    class="inline-block w-12 h-12 border-4 border-teal-200 border-t-teal-600 rounded-full animate-spin mb-4">
+                                </div>
+                                <p class="text-gray-600 font-medium">Randevu takvimi yükleniyor...</p>
+                            </div>
+                        </div>
+                        {{-- Widget --}}
+                        <div class="w-full h-full">
+                            <a id="zl-url" class="zl-url block"
+                                href="https://www.doktortakvimi.com/ebru-basak/fizyoterapi-ve-rehabilitasyon/ankara"
+                                rel="nofollow" data-zlw-doctor="ebru-basak" data-zlw-type="big_with_calendar"
+                                data-zlw-opinion="false" data-zlw-hide-branding="true" data-zlw-saas-only="true"
+                                data-zlw-a11y-title="Doktor randevu widgeti">Ebru Başak - DoktorTakvimi.com</a>
+                        </div>
+                    </div>
+                </div>
+
+                {{-- Klinik Bilgileri --}}
+                <div
+                    class="bg-white rounded-3xl shadow-lg p-6 sm:p-8 lg:p-10 flex flex-col h-full max-h-full lg:max-h-[800px]">
+                    <div class="mb-8 pb-6 border-b border-gray-100">
+                        <h3 class="text-xl font-semibold text-gray-900">Klinik Bilgileri</h3>
+                        <p class="text-sm text-gray-500 mt-1">İletişim ve çalışma saatleri</p>
+                    </div>
 
                     <div class="space-y-6">
-                        <div class="flex items-start space-x-4">
-                            <div
-                                class="w-12 h-12 bg-teal-100 text-teal-600 rounded-xl flex items-center justify-center flex-shrink-0">
-                                <x-tabler-map-pin />
-                            </div>
-                            <div>
-                                <h4 class="font-bold text-gray-900 mb-1">Adres</h4>
-                                <p class="text-gray-600 leading-relaxed">
-                                    Atakent Mahallesi Şehit Celal İşen Caddesi No 64 B <br> Elvankent Etimesgut, Ankara
-                                </p>
-                            </div>
+                        <div>
+                            <h4 class="text-sm font-semibold text-gray-900 mb-2">Adres</h4>
+                            <p class="text-gray-600 text-sm leading-relaxed">
+                                Atakent Mahallesi Şehit Celal İşen Caddesi No 64 B <br> Elvankent Etimesgut, Ankara
+                            </p>
                         </div>
 
-                        <div class="flex items-start space-x-4">
-                            <div
-                                class="w-12 h-12 bg-cyan-100 text-cyan-600 rounded-xl flex items-center justify-center flex-shrink-0">
-                                <x-tabler-phone />
-                            </div>
-                            <div>
-                                <h4 class="font-bold text-gray-900 mb-1">Telefon</h4>
-                                <p class="text-gray-600 leading-relaxed">
-                                    +90 (507) 711 33 18
-                                </p>
-                            </div>
+                        <div class="h-px bg-gray-100"></div>
+
+                        <div>
+                            <h4 class="text-sm font-semibold text-gray-900 mb-2">Telefon</h4>
+                            <a href="tel:+905077113318"
+                                class="text-gray-600 text-sm hover:text-teal-600 transition-colors">
+                                +90 (507) 711 33 18
+                            </a>
                         </div>
 
-                        <div class="flex items-start space-x-4">
-                            <div
-                                class="w-12 h-12 bg-emerald-100 text-emerald-600 rounded-xl flex items-center justify-center flex-shrink-0">
-                                <x-tabler-clock />
-                            </div>
-                            <div>
-                                <h4 class="font-bold text-gray-900 mb-1">Çalışma Saatleri</h4>
-                                <p class="text-gray-600 leading-relaxed">
-                                    Pazartesi: Kapalı <br>
-                                    Salı - Pazar: 10:00 - 22:00
+                        <div class="h-px bg-gray-100"></div>
+
+                        <div>
+                            <h4 class="text-sm font-semibold text-gray-900 mb-2">Çalışma Saatleri</h4>
+                            <p class="text-gray-600 text-sm leading-relaxed">
+                                Pazartesi: Kapalı <br>
+                                Salı - Pazar: 10:00 - 22:00
+                            </p>
+                        </div>
+
+                        <div class="pt-6 mt-6 border-t border-gray-200">
+                            <div class="rounded-xl p-5 bg-gradient-to-br from-teal-50 to-cyan-50">
+                                <h4 class="text-sm font-semibold text-gray-900 mb-2">Randevu Bilgisi</h4>
+                                <p class="text-sm text-gray-600 leading-relaxed">
+                                    Randevu sistemi <a href="https://doktortakvimi.com" target="_blank"
+                                        class="text-emerald-500 hover:underline font-semibold">Doktor Takvimi</a>
+                                    tarafından
+                                    sağlanmaktadır. Doğrudan iletişim için aşağıdaki butonları kullanabilirsiniz.
                                 </p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="mt-auto pt-10">
-                        <div class="flex flex-col sm:flex-row gap-4">
+                    <div class="pt-6 border-t border-gray-100 mt-6">
+                        <div class="flex flex-col gap-4">
                             <a href="tel:+905077113318"
-                                class="flex-1 inline-flex items-center justify-center px-6 py-3 bg-gradient-to-t from-teal-600 to-cyan-600 text-white rounded-full font-semibold shadow-md transition hover:opacity-90">
+                                class="inline-flex items-center justify-center px-6 py-3 bg-gradient-to-t from-teal-600 to-cyan-600 text-white rounded-full font-semibold shadow-md transition hover:opacity-90">
                                 <x-tabler-phone-call class="size-5 mr-2" />
                                 Hemen Ara
                             </a>
                             <a href="https://wa.me/905077113318?text=Merhaba.%20Mesaj%C4%B1n%C4%B1z%C4%B1%20buraya%20yazabilirsiniz!"
                                 target="_blank" rel="noopener noreferrer"
-                                class="flex-1 inline-flex items-center justify-center px-6 py-3 bg-white text-gray-900 rounded-full font-semibold border border-gray-200 shadow-sm transition hover:bg-gray-50">
+                                class="inline-flex items-center justify-center px-6 py-3 bg-white text-gray-900 rounded-full font-semibold border border-gray-200 shadow-sm transition hover:bg-gray-50">
                                 <x-tabler-brand-whatsapp class="size-5 mr-2" />
                                 WhatsApp'tan Yaz
                             </a>
                         </div>
                     </div>
                 </div>
-
-                <div class="w-full h-[400px] sm:h-[500px] lg:h-full rounded-3xl overflow-hidden shadow-lg">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1529.158277611564!2d32.61102819975162!3d39.956674697161084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d33b53911440d9%3A0x64e148ccb77ed9dc!2sFizyoterapist%20Ebru%20Ba%C5%9Fak!5e0!3m2!1str!2str!4v1760894732923!5m2!1str!2str"
-                        class="w-full h-full" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
-
             </div>
+
+            {{-- Google Maps --}}
+            <div
+                class="w-full h-[400px] sm:h-[500px] lg:h-[600px] rounded-3xl overflow-hidden shadow-lg max-w-6xl mx-auto mt-12">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1529.158277611564!2d32.61102819975162!3d39.956674697161084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d33b53911440d9%3A0x64e148ccb77ed9dc!2sFizyoterapist%20Ebru%20Ba%C5%9Fak!5e0!3m2!1str!2str!4v1760894732923!5m2!1str!2str"
+                    class="w-full h-full" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+
+        {{-- Tilted section divider --}}
+        <div class="absolute bottom-0 left-0 right-0 h-24">
+            <svg class="absolute bottom-0 w-full h-24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 120"
+                preserveAspectRatio="none">
+                <path d="M0,60 Q180,100 360,60 T720,60 Q900,100 1080,60 T1440,60 L1440,120 L0,120 Z" fill="#ffffff"></path>
+            </svg>
         </div>
     </section>
 
-    <section id="blog" class="py-24 px-4 sm:px-6 lg:px-8 bg-white">
+    <section id="blog" class="pt-16 pb-28 px-4 sm:px-6 lg:px-8 bg-white">
         <div class="max-w-7xl mx-auto">
             <div class="text-center mb-16">
                 <h2 class="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
@@ -360,3 +442,55 @@
         </div>
     </section>
 @endsection
+
+@push('scripts')
+    {{-- DoktorTakvimi Widget Script --}}
+    <script>
+        ! function($_x, _s, id) {
+            var js, fjs = $_x.getElementsByTagName(_s)[0];
+            if (!$_x.getElementById(id)) {
+                js = $_x.createElement(_s);
+                js.id = id;
+                js.src = "//platform.docplanner.com/js/widget.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, "script", "zl-widget-s");
+
+        // Hide loading placeholder once widget is loaded
+        setTimeout(function() {
+            const loadingElement = document.getElementById('widget-loading');
+            if (loadingElement) {
+                loadingElement.style.opacity = '0';
+                loadingElement.style.transition = 'opacity 0.3s ease-out';
+                setTimeout(function() {
+                    loadingElement.style.display = 'none';
+                }, 300);
+            }
+        }, 2000);
+
+        // Also check if widget content is loaded via MutationObserver
+        const observer = new MutationObserver(function(mutations) {
+            const zlUrl = document.getElementById('zl-url');
+            if (zlUrl && zlUrl.children.length > 0) {
+                const loadingElement = document.getElementById('widget-loading');
+                if (loadingElement) {
+                    loadingElement.style.opacity = '0';
+                    loadingElement.style.transition = 'opacity 0.3s ease-out';
+                    setTimeout(function() {
+                        loadingElement.style.display = 'none';
+                    }, 300);
+                }
+                observer.disconnect();
+            }
+        });
+
+        // Start observing the widget container
+        const zlUrl = document.getElementById('zl-url');
+        if (zlUrl) {
+            observer.observe(zlUrl, {
+                childList: true,
+                subtree: true
+            });
+        }
+    </script>
+@endpush
