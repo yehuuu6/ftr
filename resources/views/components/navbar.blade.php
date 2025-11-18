@@ -8,42 +8,38 @@
                 Ebru Başak FTR
             </a>
 
-            <div class="hidden md:flex items-center gap-x-6 lg:gap-x-8">
+            <div class="hidden text-sm md:flex items-center gap-x-2">
                 <a href="/"
                     class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200">
-                    <span class="inline-flex items-center gap-1.5">
-                        <x-tabler-home class="w-4 h-4" />
-                        Ana Sayfa
-                    </span>
+                    Ana Sayfa
                     <span
                         class="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-teal-600"></span>
                 </a>
+                <x-tabler-point-f class="size-2.5 text-gray-900" />
                 <a href="/#hizmetler"
                     class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200">
-                    <span class="inline-flex items-center gap-1.5">
-                        <x-tabler-heart-handshake class="w-4 h-4" />
-                        Hizmetler
-                    </span>
+                    Hizmetler
                     <span
                         class="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-teal-600"></span>
                 </a>
+                <x-tabler-point-f class="size-2.5 text-gray-900" />
                 <a href="/#iletisim"
                     class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200">
-                    <span class="inline-flex items-center gap-1.5">
-                        <x-tabler-mail class="w-4 h-4" />
-                        İletişim
-                    </span>
+                    İletişim
                     <span
                         class="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-teal-600"></span>
                 </a>
+                <x-tabler-point-f class="size-2.5 text-gray-900" />
                 <a href="/posts"
                     class="group text-gray-700 hover:text-gray-900 font-medium transition-colors duration-200">
-                    <span class="inline-flex items-center gap-1.5">
-                        <x-tabler-news class="w-4 h-4" />
-                        Blog
-                    </span>
+                    Blog
                     <span
                         class="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-teal-600"></span>
+                </a>
+                <a href="https://www.doktortakvimi.com/ebru-basak/fizyoterapi-ve-rehabilitasyon/ankara?utm_source=widget-null&utm_medium=link"
+                    rel="nofollow" target="_blank"
+                    class="ml-3.5 border border-teal-600 text-teal-600 shadow px-5 py-2 rounded-full font-semibold hover:bg-teal-600 hover:text-white transition">
+                    Randevu Al
                 </a>
             </div>
 
@@ -85,6 +81,12 @@
                 class="flex items-center gap-2 px-4 py-2 text-gray-700 font-medium rounded-md hover:bg-teal-50 hover:text-teal-600">
                 <x-tabler-news class="w-4 h-4" />
                 Blog
+            </a>
+            <a href="https://www.doktortakvimi.com/ebru-basak/fizyoterapi-ve-rehabilitasyon/ankara?utm_source=widget-null&utm_medium=link"
+                rel="nofollow" target="_blank"
+                class="flex items-center gap-2 px-4 py-2 text-gray-700 font-medium rounded-md hover:bg-teal-50 hover:text-teal-600">
+                <x-tabler-calendar-check class="w-4 h-4" />
+                Randevu Al
             </a>
         </div>
     </div>
