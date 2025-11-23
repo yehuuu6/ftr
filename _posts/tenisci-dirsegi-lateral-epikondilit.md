@@ -1,7 +1,7 @@
 ---
 title: "Tenisçi Dirseği – Lateral Epikondilit"
 description: "Tenisçi dirseği (lateral epikondilit): nedenleri, sık görülen nedenler ve etkili tedavi yöntemleri. Masaj ve elektroterapi tek başına yeterli mi? Egzersizlerin önemi nedir?"
-category: "Hastalık"
+category: "tenisçi dirseği, lateral epikondilit, tenisçi dirseği nedir, tenisçi dirseği belirtileri, tenisçi dirseği tedavisi, lateral epikondilit tedavisi, tenisçi dirseği egzersizleri, dirsek ağrısı, dirsek tendiniti, el bileği ağrısı, dirsek fizyoterapisi, friksiyon masajı, graston masajı, kinezyolojik bantlama, ESWT şok dalga tedavisi, klinik egzersiz dirsek, manuel terapi dirsek, Elvankent Ebru Başak fizik tedavi kliniği"
 author: "Ebru Başak"
 date: "2025-10-19 16:49"
 image: "/media/tenisci-dirsegi/card.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "KOAH HASTALIĞINDA SOLUNUM REHABİLİTASYONU: Fizyoterapist Eşliğinde Nefesinizi Güçlendirin"
 description: "KOAH hastalığında doğru solunum rehabilitasyonu, nefes darlığını azaltır ve yaşam kalitesini artırır. Fizyoterapist eşliğinde yapılan egzersizlerle solunum kaslarınızı güçlendirebilir, günlük aktivitelerde daha özgür nefes alabilirsiniz."
-category: Hastalık
+category: "KOAH, KOAH nedir, KOAH tedavisi, KOAH egzersizleri, solunum rehabilitasyonu, solunum fizyoterapisi, nefes egzersizleri, solunum kasları güçlendirme, göğüs kafesi mobilizasyonu, KOAH nefes darlığı, solunum terapisi, pulmoner rehabilitasyon, KOAH yaşam kalitesi, solunum kontrol teknikleri, fizyoterapi KOAH, Elvankent Ebru Başak fizik tedavi kliniği"
 author: "Ebru Başak"
 date: "2025-10-30 15:57"
 image: "/media/koah/card.jpg"

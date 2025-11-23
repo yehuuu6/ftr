@@ -1,1 +1,1 @@
-Kategori: "{{ $page->category }}"
+

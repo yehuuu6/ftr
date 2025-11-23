@@ -1,7 +1,7 @@
 ---
 title: "MENİSKÜS HASARI REHBERİ"
 description: "Menisküs yaralanmaları sadece sporcuların değil, herkesin yaşayabileceği bir diz problemidir. Bu yazıda menisküs hasarının nedenlerini, korunma yollarını ve fizyoterapiyle nasıl iyileşebileceğini keşfedin."
-category: Hastalık
+category: "menisküs, menisküs nedir, menisküs yırtığı, menisküs belirtileri, menisküs tedavisi, menisküs rehabilitasyonu, menisküs egzersizleri, diz ağrısı, diz yaralanmaları, diz fizyoterapisi, menisküs ameliyatsız tedavi, manuel terapi diz, klinik pilates diz, diz stabilitesi egzersizleri, propriyosepsiyon egzersizleri, spor yaralanmaları diz, Elvankent Ebru Başak fizik tedavi kliniği"
 author: "Ebru Başak"
 date: "2025-10-31 11:54"
 image: "/media/meniskus/card.webp"
@@ -44,8 +44,7 @@ Menisküs problemlerinde yüksek darbe içeren hareketlerden kaçınılmalıdır
 - Denge tahtası çalışmaları
 - Hafif tempolu yürüyüş veya su içi egzersizleri
 - Klinik pilates uygulamaları  
-  onarımı destekler.  
-
+  onarımı destekler.
 
 _Sonuç olarak:_ Menisküs yaralanması, erken fark edildiğinde cerrahiye gerek kalmadan tamamen düzeltilebilir. Fizyoterapist rehberliğinde yürütülecek bir rehabilitasyon programı, diz sağlığını geri kazanmanın en etkili yoludur.![enter image description here](https://customrehabpt.com/wp-content/uploads/2022/12/Custom-Rehab-Physical-Therapy-5.jpg)
 

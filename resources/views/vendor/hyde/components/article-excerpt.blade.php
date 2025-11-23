@@ -68,11 +68,6 @@ if (str_starts_with($imageUrl, 'http')) {
         </p>
 
         <div class="flex items-center justify-between pt-4 border-t border-gray-100">
-            @if ($post->category)
-                <span class="text-xs font-medium text-teal-600 bg-teal-50 px-3 py-1 rounded-full">
-                    {{ $post->category }}
-                </span>
-            @endif
 
             @isset($post->author)
                 <span class="text-sm text-gray-500" itemprop="author" itemscope itemtype="https://schema.org/Person">

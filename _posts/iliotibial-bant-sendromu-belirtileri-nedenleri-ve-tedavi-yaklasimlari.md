@@ -1,10 +1,10 @@
 ---
-title: 'İliotibial Bant Sendromu: Belirtileri, Nedenleri ve Tedavi Yaklaşımları'
-description: 'İliotibial Bant Sendromu (ITBS), koşucu ve bisikletçilerde sık görülen, dizin dış yan kısmında ağrıya yol açan aşırı kullanım kaynaklı bir rahatsızlıktır. Kas dengesizliklerinin düzeltilmesi, germe egzersizleri ve fizyoterapiyle tamamen iyileşme mümkündür.'
-category: Hastalık
-author: 'Ebru Başak'
+title: "İliotibial Bant Sendromu: Belirtileri, Nedenleri ve Tedavi Yaklaşımları"
+description: "İliotibial Bant Sendromu (ITBS), koşucu ve bisikletçilerde sık görülen, dizin dış yan kısmında ağrıya yol açan aşırı kullanım kaynaklı bir rahatsızlıktır. Kas dengesizliklerinin düzeltilmesi, germe egzersizleri ve fizyoterapiyle tamamen iyileşme mümkündür."
+category: "iliotibial bant sendromu, ITBS, iliotibial bant nedir, diz dış yan ağrısı, IT band egzersizleri, koşucu diz ağrısı, bisikletçi diz ağrısı, iliotibial bant tedavisi, diz fizyoterapisi, gluteus medius güçlendirme, kalça kas güçlendirme, foam roller IT band, koşucu rehabilitasyonu, biyomekanik değerlendirme, TFL germe, diz yaralanmaları, Elvankent Ebru Başak fizik tedavi kliniği"
+author: "Ebru Başak"
 image: "/media/bant/card.jpg"
-date: '2025-11-11 16:31'
+date: "2025-11-11 16:31"
 ---
 
 İliotibial Bant Sendromu (ITBS), özellikle koşucularda, bisikletçilerde ve aktif yaşam süren bireylerde sık görülen bir diz dış yan ağrısı problemidir. Kalçadan dize kadar uzanan kalın bir bağ dokusu olan iliotibial bant (ITB), diz ve kalça eklemini stabilize eder. Ancak aşırı yüklenme veya kas dengesizlikleri sonucu bu bant, dizin dış tarafındaki kemik çıkıntıya sürtünür ve zamanla iltihaplanma ve ağrı gelişir.

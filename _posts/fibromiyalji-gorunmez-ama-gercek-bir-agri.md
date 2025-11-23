@@ -1,7 +1,7 @@
 ---
 title: "Fibromiyalji: Görünmez ama Gerçek Bir Ağrı"
 description: "Fibromiyaljinin fizyolojik temelleri, merkezi duyarlılık kavramı ve egzersiz temelli tedavi yöntemleri hakkında bilgilendirici bir yazı."
-category: Hastalık
+category: "fibromiyalji, fibromiyalji nedir, fibromiyalji belirtileri, fibromiyalji tedavisi, merkezi duyarlılık, kronik ağrı sendromu, klinik pilates fibromiyalji, manuel terapi fibromiyalji, kas ağrısı tedavisi, kronik yorgunluk, miyofasyal ağrı, sinir sistemi duyarlılığı, postür bozukluğu tedavisi, nefes egzersizleri pilates, ağrı yönetimi fizyoterapi, Elvankent Ebru Başak fizik tedavi kliniği"
 author: "Ebru Başak"
 date: "2025-10-24 12:06"
 image: "/media/fibromiyalji/card.webp"
