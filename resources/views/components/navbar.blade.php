@@ -9,7 +9,7 @@
                         Ankara</span>
                 </div>
                 <div class="flex items-center gap-4">
-                    <a href="tel:+905555555555"
+                    <a href="tel:+905077113318"
                         class="flex items-center gap-2 hover:text-teal-200 transition-colors group">
                         <x-tabler-phone class="size-4 flex-shrink-0 group-hover:scale-110 transition-transform" />
                         <span class="text-xs sm:text-sm font-semibold tracking-wide">+90 (507) 711 33 18</span>
