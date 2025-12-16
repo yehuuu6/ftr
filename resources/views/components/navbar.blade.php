@@ -1,4 +1,4 @@
-<div class="fixed w-full top-0 z-50">
+<div class="sticky w-full top-0 z-50">
     {{-- Top Banner --}}
     <div class="bg-gradient-to-r from-teal-900 via-teal-800 to-emerald-900 text-white shadow-md">
         <div class="max-w-7xl mx-auto lg:px-0 px-5 py-2.5">
