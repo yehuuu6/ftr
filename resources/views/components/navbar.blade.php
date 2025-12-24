@@ -80,7 +80,7 @@
         <div x-show="open" @click.away="open = false" x-transition:enter="transition ease-out duration-200"
             x-transition:enter-start="opacity-0 scale-95" x-transition:enter-end="opacity-100 scale-100"
             x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 scale-100"
-            x-transition:leave-end="opacity-0 scale-95"
+            x-transition:leave-end="opacity-0 scale-95" x-collapse
             class="md:hidden w-full absolute bg-white border-t border-gray-100 shadow-lg" x-cloak>
 
             <div class="flex flex-col space-y-1 p-4">
