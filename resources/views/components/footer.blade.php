@@ -62,8 +62,7 @@
                 © {{ date('Y') }} Ebru Başak FTR. All rights reserved.
             </p>
             <span class="text-gray-300">
-                Made with 🧠 by
-                <a href="https://yehuuu.dev" target="_blank" class="text-green-500 hover:underline">@yehuuu6</a>
+                Made by Eren Aydın
             </span>
         </div>
     </div>

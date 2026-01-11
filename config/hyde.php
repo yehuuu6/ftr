@@ -218,7 +218,6 @@ return [
 
     'meta' => [
         Meta::name('author', 'Ebru Başak'),
-        Meta::name('twitter:creator', '@yehuuu6_'),
         Meta::name('description', 'Ebru Başak Fizyoterapi ve Rehabilitasyon Merkezi'),
         Meta::name('keywords', 'fizyoterapi, rehabilitasyon, ebru başak, ebru başak ftr, ebru başak ftr, fizyoterapist, sağlık, wellness, Fizyoterapist Ebru Başak, elvankent fizyoterapist, elvankent, etimesgut ftr, etimesgut fizyoterapist'),
         Meta::name('generator', 'HydePHP v'.Hyde\Hyde::version()),
