@@ -1,5 +1,5 @@
 ---
-title: "Adölesan İdiyopatik Skolyoz Nedir?"
+title: "Adölesan İdiyopatik Skolyoz Nedir? ??"
 description: "Adölesan İdiyopatik Skolyozda üç boyutlu egzersizler, dinamik stabilizasyon ve klinik pilates ile omurga dengesini geliştirmeyi, duruşu düzeltmeyi ve eğrilik ilerlemesini yavaşlatmayı amaçlayan bütüncül bir tedavi yaklaşımı."
 category: "Adölesan idiopatik skolyoz, skolyoz tedavisi, 3D skolyoz egzersizleri, dinamik stabilizasyon, klinik pilates skolyoz, skolyoz egzersizleri, omurga eğriliği, scoliosis exercises, skolyoz fizyoterapi, skolyoz nedir, skolyoz belirtileri, skolyoz rehabilitasyonu, adölesan skolyoz, omurga sağlığı, skolyoz pilates, gövde stabilizasyonu, core egzersizleri, omurga dengesizliği, skolyoz progresyonu, fizyoterapi skolyoz"
 author: "Ebru Başak"
