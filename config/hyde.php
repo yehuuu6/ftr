@@ -25,7 +25,6 @@
 use Hyde\Facades\Author;
 use Hyde\Facades\Meta;
 use Hyde\Enums\Feature;
-use Hyde\Facades\Navigation;
 
 return [
 
@@ -219,7 +218,7 @@ return [
     'meta' => [
         Meta::name('author', 'Ebru Başak'),
         Meta::name('description', 'Ebru Başak Fizyoterapi ve Rehabilitasyon Merkezi'),
-        Meta::name('keywords', 'fizyoterapi, rehabilitasyon, ebru başak, ebru başak ftr, ebru başak ftr, fizyoterapist, sağlık, wellness, Fizyoterapist Ebru Başak, elvankent fizyoterapist, elvankent, etimesgut ftr, etimesgut fizyoterapist'),
+        Meta::name('keywords', 'fizyoterapi, rehabilitasyon, ebru başak, ebru başak ftr, ebru başak ftr, fizyoterapist, sağlık, wellness, Fizyoterapist Ebru Başak, elvankent fizyoterapist, elvankent, etimesgut ftr, etimesgut fizyoterapist, elvankent fizik tedavi, etimesgut fizik tedavi, Ebru Başak fizik tedavi, elvankent fizik tedavi merkezi, etimesgut fizik tedavi merkezi, elvankent manuel terapi, etimesgut manuel terapi, elvankent klinik egzersiz, etimesgut klinik egzersiz, elvankent rehabilitasyon merkezi, etimesgut rehabilitasyon merkezi'),
         Meta::name('generator', 'HydePHP v'.Hyde\Hyde::version()),
         Meta::property('site_name', env('SITE_NAME', 'Ebru Başak Manuel Terapi ve Klinik Egzersiz Merkezi')),
     ],
